@@ -316,6 +316,14 @@ a {
 
     .portfolio {
         padding: 100px 30px;
+        &-btns {
+            gap: 20px;
+        }
+
+        &-btn {
+            padding: 13px 15px;
+        }
+
     }
 }
 
@@ -329,6 +337,7 @@ a {
         }
 
     }
+    
 }
 
 @media (max-width: 480px) {

@@ -248,6 +248,12 @@ a {
   .portfolio {
     padding: 100px 30px;
   }
+  .portfolio-btns {
+    gap: 20px;
+  }
+  .portfolio-btn {
+    padding: 13px 15px;
+  }
 }
 @media (max-width: 540px) {
   .header__content {
